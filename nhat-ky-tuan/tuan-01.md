@@ -18,7 +18,7 @@
 | # | Nội dung công việc | Annotator | Reviewer | Hoàn thành | Ghi chú |
 |---|---|---|---|---|---|
 | 1 | Segmentation 25 frame | Nguyễn Tú Anh | Hoàng Mạnh Cường | 20% | Vẽ được 5/25 frame, chưa review |
-| 2 |  BBox, Polygon 50 frame | Hoàng Mạnh Cường | Hoàng Văn Long | ...% | Vẽ được .../50 frame, chưa review |
+| 2 |  BBox, Polygon 50 frame | Hoàng Mạnh Cường | Hoàng Văn Long | ...% | Vẽ được 25/50 frame, chưa review |
 | 3 | BBox, Polygon 50 frame | Hoàng Văn Long | Lê Hữu Sơn | ...% | Vẽ được .../50 frame, chưa review |
 | 4 | BBox, Polygon 50 frame | Lê Hữu Sơn | Nguyễn Minh Quân | 50% | Vẽ được 25/50 frame, chưa review |
 | 5 | BBox, Polygon 50 frame | Nguyễn Minh Quân | Nguyễn Tú Anh | ...% | Vẽ được .../50 frame, chưa review |
@@ -33,6 +33,13 @@ Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) 
 ## Vướng mắc
 
 - Chưa hoàn thành do khối lượng gán nhãn và độ chi tiết khá cao.
+- Một số vật thể ở xa, bị nhòe hoặc che khuất nên chưa xác định chắc
+  chắn class.
+- Chưa phân biệt được vạch kẻ đường đơn và đôi trong trường hợp vạch
+  bị mờ hoặc khuất bóng.
+- Chưa rõ quy tắc segmentation vùng `sky` khi có nhiều dây điện/dây
+  cáp chạy ngang.
+- Tiến độ của một số thành viên chưa được cập nhật đầy đủ.
 
 ## Kế hoạch tuần sau
 
