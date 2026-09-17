@@ -18,7 +18,7 @@
 | # | Nội dung công việc | Annotator | Reviewer | Hoàn thành | Ghi chú |
 |---|---|---|---|---|---|
 | 1 | Segmentation 25 frame | Nguyễn Tú Anh | Hoàng Mạnh Cường | 20% | Vẽ được 5/25 frame, chưa review |
-| 2 |  BBox, Polygon 50 frame | Hoàng Mạnh Cường | Hoàng Văn Long | ...% | Vẽ được 25/50 frame, chưa review |
+| 2 |  BBox, Polygon 50 frame | Hoàng Mạnh Cường | Hoàng Văn Long | 50% | Vẽ được 25/50 frame, chưa review |
 | 3 | BBox, Polygon 50 frame | Hoàng Văn Long | Lê Hữu Sơn | ...% | Vẽ được .../50 frame, chưa review |
 | 4 | BBox, Polygon 50 frame | Lê Hữu Sơn | Nguyễn Minh Quân | 50% | Vẽ được 25/50 frame, chưa review |
 | 5 | BBox, Polygon 50 frame | Nguyễn Minh Quân | Nguyễn Tú Anh | ...% | Vẽ được .../50 frame, chưa review |
@@ -26,7 +26,7 @@
 Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) · ⛔ bị chặn (ghi lý do) · ⬜ chưa bắt đầu
 
 ## Tổng kết
-- Đã gán: ... / 225 ảnh (...%)
+- Đã gán: 55 / 225 ảnh (24%)
 - Qua review lần đầu: ...% (trả lại .. ảnh) #chưa điền vội
 - Edge case mới: 
 
