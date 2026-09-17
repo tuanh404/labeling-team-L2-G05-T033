@@ -213,6 +213,23 @@
   - Kết quả: 🔴 Mở
 
   ———
+   ## P-005
+
+  **Boundary không rõ ràng do xe tải bị che khuất một phần bởi cây**
+
+  - **Loại:** Guideline mơ hồ
+  - **Mục guideline:**  § 3.1. Occluded và Truncated / § 5. Quy tắc khi class hoặc boundary không rõ
+  - **Người phát hiện:** @Lê Hữu Sơn · 17/09/2026
+  - **Link CVAT:**
+    - https://cvat.note.transformerlabs.ai/tasks/<task-id>/jobs/<job-id>?frame=<frame>
+  - **Mô tả:** Guideline yêu cầu với object bị che khuất, vẫn annotate nếu còn đủ bằng chứng thị giác để xác định class và phải bật attribute occluded = true. Đồng thời, quy tắc BBox yêu cầu vẽ box bao sát phần đối tượng, hạn chế tối đa phần nền thừa. Tuy nhiên, tại frame 5, ranh giới của xe tải bị cây che khuất nên không thể xác định điểm chuẩn để vẽ BBox sát đối tượng mà không lẹm vào phần nền thừa.
+  - **Các cách hiểu:**
+    1. Tự đoán boundary và vẽ box ước lượng xuyên qua cây (có nguy cơ vi phạm nguyên tắc không tự suy luận boundary).
+    2. Tạo issue UNCERTAIN_BOUNDARY để nhờ Reviewer xử lý.
+  - **Xử lý tạm trong lúc chờ:** Áp dụng cách 2, tạo Issue với tag UNCERTAIN_BOUNDARY theo đúng quy trình review và không tự đoán biên.
+  - **Câu hỏi cần chốt:**
+  - **Kết quả:** 🔴 Mở
+  ———
 
   ## Mẫu để thêm vấn đề mới
 
