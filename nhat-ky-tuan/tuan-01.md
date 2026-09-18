@@ -11,7 +11,7 @@
 |Hoàng Mạnh Cường| Annotator, Reviewer | Segmentation ..., BBox, Polygon job 1460|
 |Hoàng Văn Long| Annotator, Reviewer | Segmentation ..., BBox, Polygon job 1462 |
 |Lê Hữu Sơn| Annotator, Reviewer | BBox, Polygon job 1459 |
-|Nguyễn Minh Quân| Annotator, Reviewer | Segmentation ..., BBox, Polygon job 1458 |
+|Nguyễn Minh Quân| Annotator, Reviewer | Segmentation job 1458 |
 
 ## Công việc
 
