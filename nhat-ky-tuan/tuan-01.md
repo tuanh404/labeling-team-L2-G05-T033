@@ -21,7 +21,7 @@
 | 2 |  BBox, Polygon 50 frame | Hoàng Mạnh Cường | Hoàng Văn Long | 50% | Vẽ được 25/50 frame, chưa review |
 | 3 | BBox, Polygon 50 frame | Hoàng Văn Long | Lê Hữu Sơn | ...% | Vẽ được .../50 frame, chưa review |
 | 4 | BBox, Polygon 50 frame | Lê Hữu Sơn | Nguyễn Minh Quân | 50% | Vẽ được 25/50 frame, chưa review |
-| 5 | BBox, Polygon 50 frame | Nguyễn Minh Quân | Nguyễn Tú Anh | ...% | Vẽ được .../50 frame, chưa review |
+| 5 | BBox, Polygon 50 frame | Nguyễn Minh Quân | Nguyễn Tú Anh | ...% | Vẽ được 25/25 frame, chưa review (dùng YOLO26 đánh auto-labeling) |
 
 Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) · ⛔ bị chặn (ghi lý do) · ⬜ chưa bắt đầu
 
